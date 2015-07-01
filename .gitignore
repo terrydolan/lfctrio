@@ -1,4 +1,5 @@
 # non-project files to ignore
+*.jpg
 *.pptx
 *.png
 *.pyc
