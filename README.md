@@ -3,4 +3,4 @@ This [lfctrio notebook](http://nbviewer.ipython.org/github/terrydolan/lfctrio/bl
 
 The analysis uses IPython Notebook, python, pandas and matplotlib to investigate the data from lfchistory.net. The  graphs are generated automatically from the munged data to help describe LFC's performance.
 
-For more information see Terry's [A Striking Trio](http://terrydolan.blogspot.co.uk/2015/06/lfc-a-striking-trio.html) blog post.
+For more information see Terry's [LFC: A Striking Trio](http://terrydolan.blogspot.co.uk/2015/06/lfc-a-striking-trio.html) blog post.
